@@ -1,0 +1,26 @@
+{
+  "name": "meadowlark",
+  "version": "0.10.25",
+  "description": "Personal Project",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/N/A"
+  },
+  "keywords": [
+    "Junk"
+  ],
+  "author": "Bradley Bunk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.5"
+  }
+}
